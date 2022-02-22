@@ -1,7 +1,7 @@
-data science
+﻿data science
 ==============================
 
-training
+End-to-end data science project
 
 Project Organization
 ------------
